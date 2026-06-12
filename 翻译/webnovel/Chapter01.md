@@ -18,6 +18,10 @@ That's how I saved for two years.
 
 The day I opened the passbook and saw the forty-two thousand on it, I honestly felt like crying. Add the year-end bonus and some loose change, I had a bit over forty-eight thousand.
 
+Later I called my mom. She didn't ask anything, just said, "How much short?" I said four thousand. It showed up in my account by the third day. My mom was sewing buttons in town, two mao per piece. I don't know how many pieces she had to sew to make up that four thousand.
+
+Add my mom's four thousand, and fifty-two thousand was right on the nose. Not a cent left in my pocket, but at least no mortgage.
+
 Back then housing prices in that small city weren't like the big metros, but good locations still ran over two thousand per square meter. Forty-eight thousand wouldn't even buy you a bathroom.
 
 I hit up multiple agents, looked at more than ten places. Some ground floors were damp, the wall paint peeling off in sheets. Some backed right onto a garbage station, windows sealed shut. Some had cracks in the walls and still asked for eighty thousand. None of them worked out.
