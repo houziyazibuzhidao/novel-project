@@ -4,7 +4,7 @@
 
 ---
 
-## 当前版本：3章版（2026-06-13）
+## 当前版本：3章版（2026-06-13 v2 - R1重写版）
 
 ### 版本背景
 
@@ -90,4 +90,4 @@
 - Kimi只读`正文/final/`目录下定稿，不修改原文
 - 问题写入`正文/review/`目录
 - 每章完成后立即校验，不批量积压
-- 翻译术语统一：凶宅=cursed property, 瞎子二婶=Blind Second Aunt, 何三七=He Sanqi, 端公=ritual master, 货币保留yuan
+- 翻译术语统一：凶宅=cursed property, 瞎子二婶=Blind Second Aunt, 何三七=He Sanqi, 端公=ritual master, 
